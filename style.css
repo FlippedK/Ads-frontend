@@ -1,0 +1,42 @@
+.Ads__header {
+    font-family: 'Arial', sans-serif;
+    padding: 24px;
+
+}
+
+.Header__title {
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+}
+
+.Header__button {
+    font-size: 24px;
+    font-weight: 700;
+    float: right;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Box__phone {
+
+}
+
+.Box__name {
+
+}
+
+.Box__info {
+
+}
+
+.Ads__box {
+    display: inline-block;
+}
+
+.Ads__content {
+
+}
