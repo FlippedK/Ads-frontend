@@ -1,0 +1,94 @@
+.Ads__header {
+    font-family: 'Arial', sans-serif;
+    padding: 24px;
+
+}
+
+.Header__title {
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+}
+
+.Header__button {
+    padding: 6px 6px;
+    font-size: 24px;
+    font-weight: 700;
+    float: right;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Ads__content {}
+
+.Ads__box {
+    font-family: 'Arial', sans-serif;
+    padding: 24px;
+    float: left;
+}
+
+.Box__info {}
+
+.Box__name {}
+
+.Box__phone {}
+
+.Modal__window {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    display: none;
+}
+
+.Modal__form {
+    font-family: 'Arial', sans-serif;
+    border-radius: 9px;
+    display: inline-block;
+    background-color: white;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+.Form__title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.Form__content {}
+
+.Form__field {}
+
+.Form__field label {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.Form__field input {
+    display: block;
+    width: 302px;
+    margin-bottom: 16px;
+    padding: 12px 16px;
+}
+
+.Form__button {
+    border: none;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 12px 0;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
